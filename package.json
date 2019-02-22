@@ -1,0 +1,22 @@
+{
+  "name": "raasdobackend",
+  "version": "1.0.0",
+  "description": "Desarrollo de la app Raasdo.Inc",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raasdo/RaasdoBackend.git"
+  },
+  "keywords": [
+    "Raasdo.Inc"
+  ],
+  "author": "Raasdo.Inc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raasdo/RaasdoBackend/issues"
+  },
+  "homepage": "https://github.com/raasdo/RaasdoBackend#readme"
+}
